@@ -39,4 +39,5 @@ https://python.hotexamples.com/examples/imblearn.combine/SMOTEENN/-/python-smote
 https://github.com/Ekanpat/Credit_Risk_Analysis
 https://www.geeksforgeeks.org/ensemble-methods-in-python/
 https://github.com/cedoula/Credit_Risk_Analysis
+
 https://stackoverflow.com/questions/40565444/balanced-random-forest-in-scikit-learn-python
