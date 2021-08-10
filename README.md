@@ -33,3 +33,10 @@ The balance accuracy score improved to 93%, which is the highest thus far. Accor
 
 ### Summary
 In an intial evaluation of the variables there is a weak correltation anomg the independent variaables and the dependent variable. IT is not suprising that all the models used in the credit risk analysis show weak precision in determining if a credit risk is high. The Ensemble models seemed to perform better than the other models specially for sensitivity of high risk credits. The Easy Ensemble Classifier model had a recall of 92% so it detects the majority of high risk credit. However, the low precision and the increas in false negative low risk credits there is still a high rate of false detection of high risk, thus decrease loan opportunities and revenue. A review of the features ranked by importance also showed that the foundtation of these models are flawed and would not recommend the bank to use any of these models to predict credit risk.
+
+### Resources
+https://python.hotexamples.com/examples/imblearn.combine/SMOTEENN/-/python-smoteenn-class-examples.html
+https://github.com/Ekanpat/Credit_Risk_Analysis
+https://www.geeksforgeeks.org/ensemble-methods-in-python/
+https://github.com/cedoula/Credit_Risk_Analysis
+https://stackoverflow.com/questions/40565444/balanced-random-forest-in-scikit-learn-python
